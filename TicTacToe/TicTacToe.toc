@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: TicTacToe by Evolve
+## Notes: TicTacToe minigame - challenge someone using /tictactoe nick, or join lobby by right clicking minimap icon.
+## Version: 2.2
+## Author: Evolve, Arlandia
+## SavedVariables: TicTacToeSV
+Core.lua
+UIScripts.lua
+Init.lua
+Bot.lua
+Lobby.lua
+UI.xml
